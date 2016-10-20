@@ -8,7 +8,7 @@ android {
         applicationId "com.example.haopengyutest.haopengyutest"
         minSdkVersion 15
         targetSdkVersion 24
-        versionCode 1 2
+        versionCode 1 2 3
         versionName "2.0"
     }
     buildTypes {
